@@ -1,6 +1,6 @@
 {
   "name": "generator-webapp-partial",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Scaffold out a front-end web app with HTML partial",
   "license": "Apache-2.0",
   "repository": "https://github.com/muhammed-ak/yeoman-generator-webapp-partial",
@@ -35,8 +35,8 @@
     "jest-cli": "^21.0.0"
   },
   "dependencies": {
-    "yeoman-generator": "^2.0.1",
     "chalk": "^2.1.0",
+    "yeoman-generator": "^2.0.1",
     "yosay": "^2.0.1"
   },
   "jest": {
